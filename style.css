@@ -1,0 +1,33 @@
+.header {
+  color: 	#8B0000;
+  text-shadow: 2px 2px 10px;
+  font-size: 2em;
+  margin-left: 20px;
+}
+
+#selections {
+  width: 400px;
+  padding: 5px;
+  font-size: 1.5em;
+  color: #8B0000;
+  border: 2px solid black;
+}
+
+ select option:nth-child(even){
+  background-color: #EEE8AA;
+}
+
+fieldset {
+  margin-top: 20px;
+  width: 400px;
+  font-size: 2em;
+  color: #8B0000;
+  border: #EEE8AA 3px solid;
+}
+
+#input {
+  height: 25px;
+  color: #8B0000;
+  border: 2px solid black;
+  font-size: 1em;
+}

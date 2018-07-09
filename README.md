@@ -1,0 +1,1 @@
+ ## built with jquery, this app is usefull to perform pound convertions: pounds to Kg, g and oz.
